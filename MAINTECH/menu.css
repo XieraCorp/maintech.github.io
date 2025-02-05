@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.sidebar .nav-link {
+  font-weight: bold;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.main-section {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
